@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/nbproject
+/build/
+build.xml
+/dist/
+# Eclipse
+/.classpath
+/.project
+/.settings
+/JavaApplication2/nbproject/private/
+/JavaApplication2/build/
