@@ -12,8 +12,8 @@ import javax.jws.WebParam;
  *
  * @author christianlinde
  */
-@WebService(serviceName = "WebEntwWebService")
-public class WebEntwWebService {
+@WebService(serviceName = "WebEntwService")
+public class WebEntwService {
 
     /**
      * This is a sample web service operation
