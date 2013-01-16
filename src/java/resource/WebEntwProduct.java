@@ -28,4 +28,9 @@ public class WebEntwProduct {
     public List<data.Product> products() {
         return data.Storage.getInstance().getAllProducts();
     }
+    
+    @WebMethod(operationName = "productWID") // the name product are a problem
+    public data.Product product(@WebParam(name="id") int id) {
+        return data.Storage.getInstance().getProductById(id);
+    }
 }
