@@ -4,9 +4,6 @@
     <service name="WebEntwProduct">
       <implementation-class>resource.WebEntwProduct</implementation-class>
     </service>
-    <service name="WebEntwService">
-      <implementation-class>resource.WebEntwService</implementation-class>
-    </service>
   </services>
   <clients/>
 </jax-ws>
