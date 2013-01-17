@@ -42,7 +42,7 @@ public class Storage {
 
         //add some products
         addProduct(new Product(
-                "Kindle Fire HD",
+                "Kindle Fire HD WS",
                 199f,
                 "17 cm (7 Zoll), Dualband -WLAN über zwei Antennen, "
                 + "HD-Display, Dolby-Audio-Technologie, 16 GB oder 32 GB",
